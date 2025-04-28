@@ -1,0 +1,407 @@
+Inizio parsing entità interne da tagliare
+
+Stringa=ENTITIES
+Leggi=1
+Stringa letta=LWPOLYLINE
+Trovata lwpoly. Entità 1
+
+Entità in esame1
+Scanning codici lwpolyline. Entità strinp=5
+Verifico se strinp = 70 strinp=5
+Scanning codici lwpolyline. Entità strinp=330
+Verifico se strinp = 70 strinp=330
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=8
+Verifico se strinp = 70 strinp=DP0001.0000NP001F0100.0000
+Scanning codici lwpolyline. Entità strinp=62
+Colore lwpolyline. color_line=1
+Tagliare=1
+Verifico se strinp = 70 strinp=62
+Scanning codici lwpolyline. Entità strinp=420
+Verifico se strinp = 70 strinp=420
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=90
+nvp=8
+Verifico se strinp = 70 strinp=90
+Scanning codici lwpolyline. Entità strinp=70
+Verifico se strinp = 70 strinp=70
+lwpolyline. codice 70=129
+Rilevata lwpolyline chiusa line 1955
+Scanning codici lwpolyline. Entità strinp=43
+Verifico se strinp = 70 strinp=43
+Scanning codici lwpolyline. Entità strinp=10
+Aggiunto punto alla fine del file temporaneo di taglio lwpolyline
+Stringa=LWPOLYLINE
+Leggi=0
+Trovata lwpoly. Entità 2
+
+Entità in esame2
+Scanning codici lwpolyline. Entità strinp=5
+Verifico se strinp = 70 strinp=5
+Scanning codici lwpolyline. Entità strinp=330
+Verifico se strinp = 70 strinp=330
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=8
+Verifico se strinp = 70 strinp=DP0001.0000NP001F0100.0000
+Scanning codici lwpolyline. Entità strinp=62
+Colore lwpolyline. color_line=1
+Tagliare=1
+Verifico se strinp = 70 strinp=62
+Scanning codici lwpolyline. Entità strinp=420
+Verifico se strinp = 70 strinp=420
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=90
+nvp=8
+Verifico se strinp = 70 strinp=90
+Scanning codici lwpolyline. Entità strinp=70
+Verifico se strinp = 70 strinp=70
+lwpolyline. codice 70=129
+Rilevata lwpolyline chiusa line 1955
+Scanning codici lwpolyline. Entità strinp=43
+Verifico se strinp = 70 strinp=43
+Scanning codici lwpolyline. Entità strinp=10
+Aggiunto punto alla fine del file temporaneo di taglio lwpolyline
+Stringa=LWPOLYLINE
+Leggi=0
+Trovata lwpoly. Entità 3
+
+Entità in esame3
+Scanning codici lwpolyline. Entità strinp=5
+Verifico se strinp = 70 strinp=5
+Scanning codici lwpolyline. Entità strinp=330
+Verifico se strinp = 70 strinp=330
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=8
+Verifico se strinp = 70 strinp=DP0001.0000NP006F0100.0000
+Scanning codici lwpolyline. Entità strinp=62
+Colore lwpolyline. color_line=178
+Tagliare=1
+Verifico se strinp = 70 strinp=62
+Scanning codici lwpolyline. Entità strinp=420
+Verifico se strinp = 70 strinp=420
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=90
+nvp=5
+Verifico se strinp = 70 strinp=90
+Scanning codici lwpolyline. Entità strinp=70
+Verifico se strinp = 70 strinp=70
+lwpolyline. codice 70=128
+Rilevata lwpolyline chiusa line 1955
+Scanning codici lwpolyline. Entità strinp=43
+Verifico se strinp = 70 strinp=43
+Scanning codici lwpolyline. Entità strinp=10
+Stringa=LWPOLYLINE
+Leggi=0
+Trovata lwpoly. Entità 4
+
+Entità in esame4
+Scanning codici lwpolyline. Entità strinp=5
+Verifico se strinp = 70 strinp=5
+Scanning codici lwpolyline. Entità strinp=330
+Verifico se strinp = 70 strinp=330
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=8
+Verifico se strinp = 70 strinp=DP0001.0000NP001F0100.0000
+Scanning codici lwpolyline. Entità strinp=62
+Colore lwpolyline. color_line=1
+Tagliare=1
+Verifico se strinp = 70 strinp=62
+Scanning codici lwpolyline. Entità strinp=420
+Verifico se strinp = 70 strinp=420
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=90
+nvp=8
+Verifico se strinp = 70 strinp=90
+Scanning codici lwpolyline. Entità strinp=70
+Verifico se strinp = 70 strinp=70
+lwpolyline. codice 70=129
+Rilevata lwpolyline chiusa line 1955
+Scanning codici lwpolyline. Entità strinp=43
+Verifico se strinp = 70 strinp=43
+Scanning codici lwpolyline. Entità strinp=10
+Aggiunto punto alla fine del file temporaneo di taglio lwpolyline
+Stringa=LWPOLYLINE
+Leggi=0
+Trovata lwpoly. Entità 5
+
+Entità in esame5
+Scanning codici lwpolyline. Entità strinp=5
+Verifico se strinp = 70 strinp=5
+Scanning codici lwpolyline. Entità strinp=330
+Verifico se strinp = 70 strinp=330
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=8
+Verifico se strinp = 70 strinp=DP0001.0000NP001F0100.0000
+Scanning codici lwpolyline. Entità strinp=62
+Colore lwpolyline. color_line=1
+Tagliare=1
+Verifico se strinp = 70 strinp=62
+Scanning codici lwpolyline. Entità strinp=420
+Verifico se strinp = 70 strinp=420
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=90
+nvp=8
+Verifico se strinp = 70 strinp=90
+Scanning codici lwpolyline. Entità strinp=70
+Verifico se strinp = 70 strinp=70
+lwpolyline. codice 70=129
+Rilevata lwpolyline chiusa line 1955
+Scanning codici lwpolyline. Entità strinp=43
+Verifico se strinp = 70 strinp=43
+Scanning codici lwpolyline. Entità strinp=10
+Aggiunto punto alla fine del file temporaneo di taglio lwpolyline
+Stringa=LINE
+Leggi=0
+Trovata linea. Entità 6
+Stringa=LINE
+Leggi=1
+Stringa letta=LWPOLYLINE
+Trovata lwpoly. Entità 7
+
+Entità in esame7
+Scanning codici lwpolyline. Entità strinp=5
+Verifico se strinp = 70 strinp=5
+Scanning codici lwpolyline. Entità strinp=330
+Verifico se strinp = 70 strinp=330
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=8
+Verifico se strinp = 70 strinp=DP0001.0000NP006F0100.0000
+Scanning codici lwpolyline. Entità strinp=62
+Colore lwpolyline. color_line=178
+Tagliare=1
+Verifico se strinp = 70 strinp=62
+Scanning codici lwpolyline. Entità strinp=420
+Verifico se strinp = 70 strinp=420
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=90
+nvp=5
+Verifico se strinp = 70 strinp=90
+Scanning codici lwpolyline. Entità strinp=70
+Verifico se strinp = 70 strinp=70
+lwpolyline. codice 70=128
+Rilevata lwpolyline chiusa line 1955
+Scanning codici lwpolyline. Entità strinp=43
+Verifico se strinp = 70 strinp=43
+Scanning codici lwpolyline. Entità strinp=10
+Stringa=LINE
+Leggi=0
+Trovata linea. Entità 8
+Stringa=LINE
+Leggi=1
+Stringa letta=EOF
+
+Inizio parsing entità esterne da tagliare
+
+Stringa=ENTITIES
+Leggi=1
+Stringa letta=LWPOLYLINE
+Trovata lwpoly. Entità 1
+
+Entità in esame1
+Scanning codici lwpolyline. Entità strinp=5
+Verifico se strinp = 70 strinp=5
+Scanning codici lwpolyline. Entità strinp=330
+Verifico se strinp = 70 strinp=330
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=8
+Verifico se strinp = 70 strinp=DP0001.0000NP001F0100.0000
+Scanning codici lwpolyline. Entità strinp=62
+Colore lwpolyline. color_line=1
+Tagliare=0
+Verifico se strinp = 70 strinp=62
+Scanning codici lwpolyline. Entità strinp=420
+Verifico se strinp = 70 strinp=420
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=90
+nvp=8
+Verifico se strinp = 70 strinp=90
+Scanning codici lwpolyline. Entità strinp=70
+Verifico se strinp = 70 strinp=70
+lwpolyline. codice 70=129
+Rilevata lwpolyline chiusa line 1955
+Scanning codici lwpolyline. Entità strinp=43
+Verifico se strinp = 70 strinp=43
+Scanning codici lwpolyline. Entità strinp=10
+Aggiunto punto alla fine del file temporaneo di taglio lwpolyline
+Stringa=LWPOLYLINE
+Leggi=0
+Trovata lwpoly. Entità 2
+
+Entità in esame2
+Scanning codici lwpolyline. Entità strinp=5
+Verifico se strinp = 70 strinp=5
+Scanning codici lwpolyline. Entità strinp=330
+Verifico se strinp = 70 strinp=330
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=8
+Verifico se strinp = 70 strinp=DP0001.0000NP001F0100.0000
+Scanning codici lwpolyline. Entità strinp=62
+Colore lwpolyline. color_line=1
+Tagliare=0
+Verifico se strinp = 70 strinp=62
+Scanning codici lwpolyline. Entità strinp=420
+Verifico se strinp = 70 strinp=420
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=90
+nvp=8
+Verifico se strinp = 70 strinp=90
+Scanning codici lwpolyline. Entità strinp=70
+Verifico se strinp = 70 strinp=70
+lwpolyline. codice 70=129
+Rilevata lwpolyline chiusa line 1955
+Scanning codici lwpolyline. Entità strinp=43
+Verifico se strinp = 70 strinp=43
+Scanning codici lwpolyline. Entità strinp=10
+Aggiunto punto alla fine del file temporaneo di taglio lwpolyline
+Stringa=LWPOLYLINE
+Leggi=0
+Trovata lwpoly. Entità 3
+
+Entità in esame3
+Scanning codici lwpolyline. Entità strinp=5
+Verifico se strinp = 70 strinp=5
+Scanning codici lwpolyline. Entità strinp=330
+Verifico se strinp = 70 strinp=330
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=8
+Verifico se strinp = 70 strinp=DP0001.0000NP006F0100.0000
+Scanning codici lwpolyline. Entità strinp=62
+Colore lwpolyline. color_line=178
+Tagliare=0
+Verifico se strinp = 70 strinp=62
+Scanning codici lwpolyline. Entità strinp=420
+Verifico se strinp = 70 strinp=420
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=90
+nvp=5
+Verifico se strinp = 70 strinp=90
+Scanning codici lwpolyline. Entità strinp=70
+Verifico se strinp = 70 strinp=70
+lwpolyline. codice 70=128
+Rilevata lwpolyline chiusa line 1955
+Scanning codici lwpolyline. Entità strinp=43
+Verifico se strinp = 70 strinp=43
+Scanning codici lwpolyline. Entità strinp=10
+Stringa=LWPOLYLINE
+Leggi=0
+Trovata lwpoly. Entità 4
+
+Entità in esame4
+Scanning codici lwpolyline. Entità strinp=5
+Verifico se strinp = 70 strinp=5
+Scanning codici lwpolyline. Entità strinp=330
+Verifico se strinp = 70 strinp=330
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=8
+Verifico se strinp = 70 strinp=DP0001.0000NP001F0100.0000
+Scanning codici lwpolyline. Entità strinp=62
+Colore lwpolyline. color_line=1
+Tagliare=0
+Verifico se strinp = 70 strinp=62
+Scanning codici lwpolyline. Entità strinp=420
+Verifico se strinp = 70 strinp=420
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=90
+nvp=8
+Verifico se strinp = 70 strinp=90
+Scanning codici lwpolyline. Entità strinp=70
+Verifico se strinp = 70 strinp=70
+lwpolyline. codice 70=129
+Rilevata lwpolyline chiusa line 1955
+Scanning codici lwpolyline. Entità strinp=43
+Verifico se strinp = 70 strinp=43
+Scanning codici lwpolyline. Entità strinp=10
+Aggiunto punto alla fine del file temporaneo di taglio lwpolyline
+Stringa=LWPOLYLINE
+Leggi=0
+Trovata lwpoly. Entità 5
+
+Entità in esame5
+Scanning codici lwpolyline. Entità strinp=5
+Verifico se strinp = 70 strinp=5
+Scanning codici lwpolyline. Entità strinp=330
+Verifico se strinp = 70 strinp=330
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=8
+Verifico se strinp = 70 strinp=DP0001.0000NP001F0100.0000
+Scanning codici lwpolyline. Entità strinp=62
+Colore lwpolyline. color_line=1
+Tagliare=0
+Verifico se strinp = 70 strinp=62
+Scanning codici lwpolyline. Entità strinp=420
+Verifico se strinp = 70 strinp=420
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=90
+nvp=8
+Verifico se strinp = 70 strinp=90
+Scanning codici lwpolyline. Entità strinp=70
+Verifico se strinp = 70 strinp=70
+lwpolyline. codice 70=129
+Rilevata lwpolyline chiusa line 1955
+Scanning codici lwpolyline. Entità strinp=43
+Verifico se strinp = 70 strinp=43
+Scanning codici lwpolyline. Entità strinp=10
+Aggiunto punto alla fine del file temporaneo di taglio lwpolyline
+Stringa=LINE
+Leggi=0
+Trovata linea. Entità 6
+Stringa=LINE
+Leggi=1
+Stringa letta=LWPOLYLINE
+Trovata lwpoly. Entità 7
+
+Entità in esame7
+Scanning codici lwpolyline. Entità strinp=5
+Verifico se strinp = 70 strinp=5
+Scanning codici lwpolyline. Entità strinp=330
+Verifico se strinp = 70 strinp=330
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=8
+Verifico se strinp = 70 strinp=DP0001.0000NP006F0100.0000
+Scanning codici lwpolyline. Entità strinp=62
+Colore lwpolyline. color_line=178
+Tagliare=0
+Verifico se strinp = 70 strinp=62
+Scanning codici lwpolyline. Entità strinp=420
+Verifico se strinp = 70 strinp=420
+Scanning codici lwpolyline. Entità strinp=100
+Verifico se strinp = 70 strinp=100
+Scanning codici lwpolyline. Entità strinp=90
+nvp=5
+Verifico se strinp = 70 strinp=90
+Scanning codici lwpolyline. Entità strinp=70
+Verifico se strinp = 70 strinp=70
+lwpolyline. codice 70=128
+Rilevata lwpolyline chiusa line 1955
+Scanning codici lwpolyline. Entità strinp=43
+Verifico se strinp = 70 strinp=43
+Scanning codici lwpolyline. Entità strinp=10
+Stringa=LINE
+Leggi=0
+Trovata linea. Entità 8
+Stringa=LINE
+Leggi=1
+Stringa letta=EOF
